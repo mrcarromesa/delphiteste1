@@ -24,6 +24,7 @@ type
     arquivo_local: TEdit;
     destino: TEdit;
     IdFTP1: TIdFTP;
+    Edit1: TEdit;
     procedure Button1Click(Sender: TObject);
   private
     { Private declarations }

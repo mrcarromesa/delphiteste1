@@ -106,6 +106,14 @@ object Form1: TForm1
     Height = 21
     TabOrder = 6
   end
+  object Edit1: TEdit
+    Left = 280
+    Top = 256
+    Width = 121
+    Height = 21
+    TabOrder = 7
+    Text = 'Edit1'
+  end
   object IdFTP1: TIdFTP
     IPVersion = Id_IPv4
     ConnectTimeout = 0
