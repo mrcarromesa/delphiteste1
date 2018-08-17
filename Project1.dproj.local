@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/07/19 08:57:28.000.108,=C:\Users\Front\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/17 14:45:13.000.910,=C:\Users\Front\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2016/08/17 14:45:13.000.778,=C:\Users\Front\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/17 14:45:19.000.835,=C:\Users\Front\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2016/08/17 16:14:08.000.170,=C:\Users\Front\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2016/08/17 16:14:08.000.264,=C:\Users\Front\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2016/08/17 16:14:08.000.056,=C:\Users\Front\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2016/10/04 11:40:56.000.816,=C:\Users\Front\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/04 11:43:36.000.888,=C:\Users\Front\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/07 17:33:56.000.319,=C:\Users\Front\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/11 12:01:53.000.772,=C:\Users\Front\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/19 09:38:27.000.059,=C:\Users\Front\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/19 09:40:21.000.146,E:\projetoDelphi\teste_ftp2\Unit1.pas=C:\Users\Front\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/19 09:40:21.000.146,E:\projetoDelphi\teste_ftp2\Unit1.dfm=C:\Users\Front\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/02/19 09:40:22.000.711,E:\projetoDelphi\teste_ftp2\Project1.dproj=C:\Users\Front\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="vm-3-funciona"/>
+		<PMacRodolfo iOSSimulator="_iossimulator_8FE48A5F-A79F-42A1-99BB-6C5A7264650B"/>
+	</ActiveMobileDevice>
+</BorlandProject>
